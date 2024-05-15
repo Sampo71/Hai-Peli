@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5da700d6b9e3a7c42944b2d3cf9b3b39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunTransform: {instanceID: 0}
+  - sideSprite: {fileID: 21300000, guid: c0cdd1e7eb63bbf478ad027ac8913424, type: 3}
+  - topSprite: {fileID: 21300000, guid: aec941c618453504baef231c94f9abd6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
